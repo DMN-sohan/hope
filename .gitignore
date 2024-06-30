@@ -1,0 +1,9 @@
+data/
+dataset/
+logs/
+saved_models/
+new_models/
+checkpoints/
+docs/
+scripts/
+__pycache__/
